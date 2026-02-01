@@ -146,23 +146,30 @@ This is an academic project, but suggestions and feedback are always welcome! Fe
 ## 📝 License
 
 This project is open source and available for educational purposes.
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Param Vadher**
 
-## 🙏 Acknowledgments
+[![GitHub](https://img.shields.io/badge/GitHub-@Param--vadher-181717?style=flat-square&logo=github)](https://github.com/Param-vadher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/param-vadher-b1a9b7333)
+[![Email](https://img.shields.io/badge/Email-paramvadher04@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:paramvadher04@gmail.com)
+## � Acknowledgments
 
-- My instructor and peers for guidance and feedback
-- Flutter and Firebase documentation
+- Flutter and Firebase teams for excellent documentation and tools
 - The Flutter community for excellent resources and support
 - [Flutter.dev](https://flutter.dev/) tutorials and codelabs
+- Open source contributors for inspiring packages
 
 ---
 
-⭐ If you found this project interesting, please consider giving it a star!
+<div align="center">
 
-**Note**: This project was developed as part of my academic coursework in Mobile Application Development.
+⭐ **If you found this project helpful, please consider giving it a star!**
+
+---
+
+**Developed as part of Mobile Application Development coursework**
+
+Made with ❤️ using Flutter & Firebase
+
+</div>
