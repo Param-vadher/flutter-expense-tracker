@@ -32,7 +32,16 @@ This project utilizes the following technologies and packages:
 
 ## 📱 Screenshots
 
-<!-- Add screenshots here once available -->
+<div align="center">
+  <img src="screenshots/Logo_page.jpeg" width="200" alt="Splash Screen" />
+  <img src="screenshots/Home.jpeg" width="200" alt="Home Screen" />
+  <img src="screenshots/Add_Expense.jpeg" width="200" alt="Add Expense" />
+  <img src="screenshots/Insert_data.jpeg" width="200" alt="Insert Data" />
+</div>
+
+<div align="center">
+  <p><em>Splash Screen • Home Screen • Add Expense • Insert Data</em></p>
+</div>
 
 ## 🚀 Getting Started
 
