@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880361340287",
+    "project_id": "student-expense-db",
+    "storage_bucket": "student-expense-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880361340287:android:9c58607a7b555a1b04ee4a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWnnncaksSnqsiPpX3112RdZAQJWABME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
